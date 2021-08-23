@@ -1,0 +1,15 @@
+body{
+    background: radial-gradient( #8f36d8,#6303B1);
+}
+.txt{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 13px;
+}
+#lol{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,60 @@
+/* #dashpg{
+    background: linear-gradient(135deg,#fa7426,#e9772b)
+} */
+
+#indpg{
+    background: linear-gradient(135deg,#f403d1,#64b5f6);
+}
+/* disables scrolling on page */
+
+/* #signupcard{
+    
+    z-index: 1;
+} */
+/* body {
+    height: 100%; 
+    overflow-y: hidden;
+ } */
+.form-text{
+    color: black;
+}
+
+.signuptext{
+    background-color: rgb(240, 220, 47);
+    border-radius: 20px;
+    position: absolute;
+    padding:10px;
+    margin-top: 13px;
+    margin-left: 170px;
+}
+.first-card{
+    margin-top: 113px; /* Added */
+
+}
+.first-cardsign{
+    position: absolute;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 130px; 
+    margin-top: 100px; 
+    width: 50%;
+    height: 50%;
+}
+.card {
+    position: absolute;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 130px; 
+    margin-top: 105px;
+    width: 75%;
+    height: 50%;
+    
+
+}
+#c1{
+    background-color: rgb(5, 10, 8);
+}
+
+#c2{
+    background-color: rgb(230, 161, 13);
+}
